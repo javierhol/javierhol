@@ -1,4 +1,4 @@
-### Hi! i am Javier Holguin
+### Hi! I'm Javier Holguin
 
 - 🔭 I work as developer backend
 - 🌱 Studyng Typescript, Java, React...
