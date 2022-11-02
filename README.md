@@ -1,8 +1,8 @@
-### Hi! I'm Javier Holguin
+###                                                                       Hi! I'm Javier Holguin
 
 - 🔭 I work as developer backend
 - 🌱 Studyng Typescript, Java, React...
-- 😄 Pronouns: He/Him
+- 📫 How to reach me Javierholguin596@gmail.com
 
 <div align="center">
   <a href="https://github.com/javierhol">
